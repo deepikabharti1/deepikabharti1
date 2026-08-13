@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm deepika 👋
 
-<!--
-**deepikabharti1/deepikabharti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** specializing in transforming raw data into actionable business insights.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Data Analyst with a strong foundation in statistical analysis, data visualization, and business intelligence. I focus on helping organizations make informed, data-driven decisions through clear and accurate reporting.
+
+- 🔭 Currently working on **[project name / role]**
+- 🌱 Currently learning ** Advanced SQL, Machine Learning, seaborn, matplotlib**
+- 💬 Areas of expertise: **Data Cleaning, Statistical Analysis, Dashboard Development, Reporting**
+- 📫 Reach me at: **[your.email@example.com]**
+- 🔗 LinkedIn: **[linkedin.com/in/yourprofile]**
+
+## Technical Skills
+
+**Languages & Query Tools:** Python | SQL | R  
+**Visualization & BI Tools:** Power BI | Tableau | Excel  
+**Libraries:** Pandas | NumPy | Matplotlib | Seaborn  
+**Other Tools:** hackerRank 
+
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+---
+
+*Thank you for visiting my profile. Feel free to explore my repositories and connect with me for collaboration opportunities.*
