@@ -7,10 +7,10 @@
 I am a Data Analyst with a strong foundation in statistical analysis, data visualization, and business intelligence. I focus on helping organizations make informed, data-driven decisions through clear and accurate reporting.
 
 - 🔭 Currently working on **[project name / role]**
-- 🌱 Currently learning ** Advanced SQL, Machine Learning, seaborn, matplotlib**
+- 🌱 Currently learning **[Advanced SQL, Machine Learning, seaborn, matplotlib]**
 - 💬 Areas of expertise: **Data Cleaning, Statistical Analysis, Dashboard Development, Reporting**
-- 📫 Reach me at: **[your.email@example.com]**
-- 🔗 LinkedIn: **[linkedin.com/in/yourprofile]**
+- 📫 Reach me at: **deepikabharti096@gmail.com**
+- 🔗 LinkedIn: **linkedin.com/in/deepikabharti1**
 
 ## Technical Skills
 
