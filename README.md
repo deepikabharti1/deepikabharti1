@@ -14,10 +14,10 @@ I am a Data Analyst with a strong foundation in statistical analysis, data visua
 
 ## Technical Skills
 
-**Languages & Query Tools:** Python | SQL | R  
+**Languages & Query Tools:** Python | SQL | Mongodb
 **Visualization & BI Tools:** Power BI | Tableau | Excel  
 **Libraries:** Pandas | NumPy | Matplotlib | Seaborn  
-**Other Tools:** hackerRank 
+**Other Tools:** PackerRank | Excel | VBA | 
 
 
 ## GitHub Stats
