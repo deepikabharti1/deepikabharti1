@@ -1,4 +1,4 @@
-# Hi, I'm deepika 👋
+# Hi, I'm Deepika 👋
 
 **Data Scientist** specializing in machine learning models, metrics analysis and predictive analytics.
 
