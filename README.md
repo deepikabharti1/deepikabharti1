@@ -13,11 +13,10 @@ I am a Data Scientist with a strong foundation in machine learning models, evalu
 
 ## Technical Skills
 
-**Languages & Query Tools:** Python | SQL | Mongodb
-**Visualization & BI Tools:** Power BI | Tableau | Excel  
+**Languages & Query Tools:** Python | MYSQL | Mongodb 
 **Libraries:** Pandas | NumPy | Matplotlib | scikit-learn  
-**Other Tools:** HackerRank | advanceExcel | VBA | 
-
+**Other Tools** advanceExcel | VBA | 
+**Visualization & BI Tools:** Matplotlib | Power BI | Tableau 
 
 ## GitHub Stats
 
