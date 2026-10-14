@@ -6,7 +6,7 @@
 I am a Data Scientist with a strong foundation in machine learning models, evaluation metrics, statistical analysis. I focus on building robust predictive systems, fine-tuning algorithms, and optimizing performance using rigorous metric evaluation.
 
 - 🔭 Currently working on **[random forest and XG boost model]**
-- 🌱 Currently learning **[pytorch]**
+- 🌱 Currently learning **[pytorch and RAG]**
 - 💬 Areas of expertise: **machine learning models and metrics,predictive modeling,EDA,preprocessing,feature engineering**
 - 📫 Reach me at: **deepikabharti096@gmail.com**
 - 🔗 LinkedIn: **linkedin.com/in/deepikabharti1**
