@@ -1,14 +1,13 @@
 # Hi, I'm deepika 👋
 
-**Data Analyst** specializing in transforming raw data into actionable business insights.
+**Data Scientist** specializing in machine learning models, metrics analysis and predictive analytics.
 
 ## About Me
+I am a Data Scientist with a strong foundation in machine learning models, evaluation metrics, statistical analysis. I focus on building robust predictive systems, fine-tuning algorithms, and optimizing performance using rigorous metric evaluation.
 
-I am a Data Analyst with a strong foundation in statistical analysis, data visualization, and business intelligence. I focus on helping organizations make informed, data-driven decisions through clear and accurate reporting.
-
-- 🔭 Currently working on **[project name / role]**
-- 🌱 Currently learning **[Advanced SQL, Machine Learning, seaborn, matplotlib]**
-- 💬 Areas of expertise: **Data Cleaning, Statistical Analysis, Dashboard Development, Reporting**
+- 🔭 Currently working on **[random forest and XG boost model]**
+- 🌱 Currently learning **[pytorch]**
+- 💬 Areas of expertise: **machine learning models and metrics,predictive modeling,EDA,preprocessing,feature engineering**
 - 📫 Reach me at: **deepikabharti096@gmail.com**
 - 🔗 LinkedIn: **linkedin.com/in/deepikabharti1**
 
@@ -16,8 +15,8 @@ I am a Data Analyst with a strong foundation in statistical analysis, data visua
 
 **Languages & Query Tools:** Python | SQL | Mongodb
 **Visualization & BI Tools:** Power BI | Tableau | Excel  
-**Libraries:** Pandas | NumPy | Matplotlib | Seaborn  
-**Other Tools:** PackerRank | Excel | VBA | 
+**Libraries:** Pandas | NumPy | Matplotlib | scikit-learn  
+**Other Tools:** HackerRank | advanceExcel | VBA | 
 
 
 ## GitHub Stats
